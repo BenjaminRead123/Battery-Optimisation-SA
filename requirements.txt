@@ -1,0 +1,7 @@
+numpy>=1.26
+pandas>=2.1
+cvxpy>=1.6
+highspy>=1.8
+matplotlib>=3.8
+pytest>=8.0
+numba>=0.61
